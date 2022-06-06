@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "servo": "*"
+        "servo": "*",
+        "https://github.com/lzty634158/SuperBit": "github:tyt0604/httpsgithubcomlzty634158superbit#master"
     },
     "files": [
         "main.blocks",
